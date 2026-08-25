@@ -1,5 +1,7 @@
 # heart-pignn
 
+<img src="figures/220.gif" width="49%"> <img src="figures/102.gif" width="49%">
+
 MIT-BIH beat classification into AAMI classes, where the **heuristic tree from
 `main.py`** and the **PIGNN from `Modelo2.ipynb`** are joined through the latent
 space of the attention module.
