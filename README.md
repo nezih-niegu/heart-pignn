@@ -1,4 +1,4 @@
-# heart-pignn
+# Heart Model Physics Informed Graph Neural Network
 
 <img src="figures/220_realtime.gif" width="49%"> <img src="figures/102_realtime.gif" width="49%">
 
