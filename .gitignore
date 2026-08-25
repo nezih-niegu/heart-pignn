@@ -1,0 +1,22 @@
+# Datos: nunca se versionan
+mit-bih-arrhythmia-database-1.0.0/
+ptb-diagnostic-ecg-database-1.0.0/
+demo-mitdb/
+
+# Salidas de entrenamiento
+checkpoints*/
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+build/
+*.egg-info/
+
+# Notebooks
+.ipynb_checkpoints/
+mit-bih-arrhythmia-database-1.0.0/

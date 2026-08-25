@@ -1,0 +1,50 @@
+[
+  {
+    "timestamp": "2026-08-24T13:21:06",
+    "epoch": 8,
+    "test_loss": 0.7764,
+    "test_f1_macro": 0.4504,
+    "per_class_f1": {
+      "N": 0.8918,
+      "S": 0.1014,
+      "V": 0.3412,
+      "F": 0.0,
+      "Q": 0.9177
+    },
+    "support": {
+      "N": 13802,
+      "S": 313,
+      "V": 721,
+      "F": 2,
+      "Q": 2080
+    },
+    "rule_head_acc": 0.7447,
+    "signal_prd": 25.4693,
+    "signal_corr": 0.9561,
+    "signal_rmse": 0.2514
+  },
+  {
+    "timestamp": "2026-08-24T13:53:05",
+    "epoch": 8,
+    "test_loss": 0.7764,
+    "test_f1_macro": 0.4504,
+    "per_class_f1": {
+      "N": 0.8918,
+      "S": 0.1014,
+      "V": 0.3412,
+      "F": 0.0,
+      "Q": 0.9177
+    },
+    "support": {
+      "N": 13802,
+      "S": 313,
+      "V": 721,
+      "F": 2,
+      "Q": 2080
+    },
+    "rule_head_acc": 0.7447,
+    "signal_prd": 25.4693,
+    "signal_corr": 0.9561,
+    "signal_rmse": 0.2514
+  }
+]
